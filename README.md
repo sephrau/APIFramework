@@ -1,7 +1,10 @@
 **StarWars**
 
 **Download Framework**
-https://github.com/skhandelwalIK/APIFramework
+https://github.com/sephrau/APIFramework
+
+**Clone Repo**
+$git clone https://github.com/sephrau/APIFramework.git
 
 **Writing a test**
 Start adding test under src/test/java/test
