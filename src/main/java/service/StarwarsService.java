@@ -7,5 +7,6 @@ public interface StarwarsService {
 
     int getTotalCountFromStarWarsSeries();
     int getTotalPeople();
+    String[] getStartshipsNames();
 
 }

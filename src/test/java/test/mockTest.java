@@ -1,6 +1,9 @@
 package test;
 
 import com.relevantcodes.extentreports.LogStatus;
+
+import static org.mockito.Answers.valueOf;
+
 import org.mockito.Mockito;
 import org.testng.Assert;
 import org.testng.annotations.Test;
